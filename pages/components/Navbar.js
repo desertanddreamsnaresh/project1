@@ -16,7 +16,7 @@ function Home() {
       <div className="home__bg">
         <div className="header d__flex align__items__center pxy__30">
           <div className="logo">
-            {/* <Image src={logo} alt="logo" layout='fill' width="10px" height="10px"/> */}
+            <Image src={logo} alt="logo" />
           </div>
           <div className="navigation pxy__30">
             <ul className="navbar d__flex">
