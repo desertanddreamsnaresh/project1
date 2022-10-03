@@ -1,7 +1,7 @@
 import React from "react";
 import Image from 'next/image'
 
-import footerImg from "../../public/logo (1).png";
+import footerImg from "../../public/logo.png";
 function Footer() {
   return (
     <div

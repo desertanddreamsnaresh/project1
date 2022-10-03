@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 // import "../css/Home.css";
 import Image from 'next/image'
-import logo from "../../public/logo copy.png";
+import logo from "../../public/logo.png";
 
 function Home() {
   // fixed Header
